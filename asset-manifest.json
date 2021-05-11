@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.abb23857.chunk.css",
+    "main.js": "/static/js/main.66c1c4c0.chunk.js",
+    "main.js.map": "/static/js/main.66c1c4c0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ef9932e0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ef9932e0.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.73e35cfc.chunk.js": "/static/js/2.73e35cfc.chunk.js",
+    "static/js/2.73e35cfc.chunk.js.map": "/static/js/2.73e35cfc.chunk.js.map",
+    "static/js/3.2dcd355d.chunk.js": "/static/js/3.2dcd355d.chunk.js",
+    "static/js/3.2dcd355d.chunk.js.map": "/static/js/3.2dcd355d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.abb23857.chunk.css.map": "/static/css/main.abb23857.chunk.css.map",
+    "static/js/2.73e35cfc.chunk.js.LICENSE.txt": "/static/js/2.73e35cfc.chunk.js.LICENSE.txt",
+    "static/media/bread.f6e844e7.jpg": "/static/media/bread.f6e844e7.jpg",
+    "static/media/brigitte.60b55df7.jpg": "/static/media/brigitte.60b55df7.jpg",
+    "static/media/cooking1.0f9cdad3.jpg": "/static/media/cooking1.0f9cdad3.jpg",
+    "static/media/kitchen.381ba95c.jpeg": "/static/media/kitchen.381ba95c.jpeg",
+    "static/media/pasta.e5f22b6c.jpg": "/static/media/pasta.e5f22b6c.jpg",
+    "static/media/profilepic.c0e26581.jpg": "/static/media/profilepic.c0e26581.jpg",
+    "static/media/saladcheese.eb28d589.png": "/static/media/saladcheese.eb28d589.png",
+    "static/media/spices.9ce875f8.jpg": "/static/media/spices.9ce875f8.jpg",
+    "static/media/vegetables3.14d6702a.jpg": "/static/media/vegetables3.14d6702a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef9932e0.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.73e35cfc.chunk.js",
+    "static/css/main.abb23857.chunk.css",
+    "static/js/main.66c1c4c0.chunk.js"
+  ]
+}
